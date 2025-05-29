@@ -3,11 +3,6 @@
 ### :bulb: Skill        
 C++, C#
 
-WinAPI, DirectX12
-
-### :star: Stat
-![Undugy's GitHub stats](https://github-readme-stats.vercel.app/api?username=undugy&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undugy&layout=compact&theme=merko)
 
 ### :file_folder: Individual Project
